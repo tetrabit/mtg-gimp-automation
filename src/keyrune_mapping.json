@@ -1,0 +1,1682 @@
+{
+  "lea": {
+    "codepoint": "e600",
+    "name": "Alpha"
+  },
+  "leb": {
+    "codepoint": "e601",
+    "name": "Beta"
+  },
+  "2ed": {
+    "codepoint": "e602",
+    "name": "Unlimited"
+  },
+  "3ed": {
+    "codepoint": "e603",
+    "name": "Revised"
+  },
+  "4ed": {
+    "codepoint": "e604",
+    "name": "4th Edition"
+  },
+  "psum": {
+    "codepoint": "e605",
+    "name": "Summer Magic"
+  },
+  "5ed": {
+    "codepoint": "e606",
+    "name": "5th Edition"
+  },
+  "6ed": {
+    "codepoint": "e607",
+    "name": "6th Edition"
+  },
+  "7ed": {
+    "codepoint": "e608",
+    "name": "7th Edition"
+  },
+  "8ed": {
+    "codepoint": "e609",
+    "name": "8th Edition"
+  },
+  "9ed": {
+    "codepoint": "e60a",
+    "name": "9th Edition"
+  },
+  "10e": {
+    "codepoint": "e60b",
+    "name": "10th Edition"
+  },
+  "m10": {
+    "codepoint": "e60c",
+    "name": "Magic 2010"
+  },
+  "m11": {
+    "codepoint": "e60d",
+    "name": "Magic 2011"
+  },
+  "m12": {
+    "codepoint": "e60e",
+    "name": "Magic 2012"
+  },
+  "m13": {
+    "codepoint": "e60f",
+    "name": "Magic 2013"
+  },
+  "m14": {
+    "codepoint": "e610",
+    "name": "Magic 2014"
+  },
+  "m15": {
+    "codepoint": "e611",
+    "name": "Magic 2015"
+  },
+  "bcore": {
+    "codepoint": "e612",
+    "name": "Core background"
+  },
+  "ori": {
+    "codepoint": "e697",
+    "name": "Magic Origins"
+  },
+  "m19": {
+    "codepoint": "e941",
+    "name": "Magic 2019"
+  },
+  "m20": {
+    "codepoint": "e95d",
+    "name": "Magic 2020"
+  },
+  "1e": {
+    "codepoint": "e947",
+    "name": "Alpha (MODO)"
+  },
+  "2e": {
+    "codepoint": "e948",
+    "name": "Beta (MODO)"
+  },
+  "2u": {
+    "codepoint": "e949",
+    "name": "Unlimited (MODO)"
+  },
+  "3e": {
+    "codepoint": "e94a",
+    "name": "Revised (MODO)"
+  },
+  "m21": {
+    "codepoint": "e960",
+    "name": "Core 2021"
+  },
+  "xdnd": {
+    "codepoint": "e972",
+    "name": "Adventures in the Forgotten Realms (inner)",
+    "duo_after": "e973"
+  },
+  "afr": {
+    "codepoint": "e972",
+    "name": "Adventures in the Forgotten Realms (inner)",
+    "duo_after": "e973"
+  },
+  "fdn": {
+    "codepoint": "e9d8",
+    "name": "Foundations 2025"
+  },
+  "arn": {
+    "codepoint": "e613",
+    "name": "Arabian Nights"
+  },
+  "atq": {
+    "codepoint": "e614",
+    "name": "Antiquities"
+  },
+  "leg": {
+    "codepoint": "e615",
+    "name": "Legends"
+  },
+  "drk": {
+    "codepoint": "e616",
+    "name": "The Dark"
+  },
+  "fem": {
+    "codepoint": "e617",
+    "name": "Fallen Empires"
+  },
+  "hml": {
+    "codepoint": "e618",
+    "name": "Homelands"
+  },
+  "ice": {
+    "codepoint": "e619",
+    "name": "Ice Age (Re-release)"
+  },
+  "ice2": {
+    "codepoint": "e925",
+    "name": "Ice Age (Original)"
+  },
+  "all": {
+    "codepoint": "e61a",
+    "name": "Alliances"
+  },
+  "csp": {
+    "codepoint": "e61b",
+    "name": "Coldsnap"
+  },
+  "mir": {
+    "codepoint": "e61c",
+    "name": "Mirage"
+  },
+  "vis": {
+    "codepoint": "e61d",
+    "name": "Visions"
+  },
+  "wth": {
+    "codepoint": "e61e",
+    "name": "Weatherlight"
+  },
+  "tmp": {
+    "codepoint": "e61f",
+    "name": "Tempest"
+  },
+  "sth": {
+    "codepoint": "e620",
+    "name": "Stronghold"
+  },
+  "exo": {
+    "codepoint": "e621",
+    "name": "Exodus"
+  },
+  "usg": {
+    "codepoint": "e622",
+    "name": "Urza's Saga"
+  },
+  "ulg": {
+    "codepoint": "e623",
+    "name": "Urza's Legacy"
+  },
+  "uds": {
+    "codepoint": "e624",
+    "name": "Urza's Destiny"
+  },
+  "mmq": {
+    "codepoint": "e625",
+    "name": "Mercadian Masque"
+  },
+  "nem": {
+    "codepoint": "e626",
+    "name": "Nemesis"
+  },
+  "nms": {
+    "codepoint": "e626",
+    "name": "Nemesis"
+  },
+  "pcy": {
+    "codepoint": "e627",
+    "name": "Prophecy"
+  },
+  "inv": {
+    "codepoint": "e628",
+    "name": "Invasion"
+  },
+  "pls": {
+    "codepoint": "e629",
+    "name": "Planeshift"
+  },
+  "apc": {
+    "codepoint": "e62a",
+    "name": "Apocalypse"
+  },
+  "ody": {
+    "codepoint": "e62b",
+    "name": "Odyssey"
+  },
+  "tor": {
+    "codepoint": "e62c",
+    "name": "Torment"
+  },
+  "jud": {
+    "codepoint": "e62d",
+    "name": "Judgement"
+  },
+  "ons": {
+    "codepoint": "e62e",
+    "name": "Onslaught"
+  },
+  "lgn": {
+    "codepoint": "e62f",
+    "name": "Legions"
+  },
+  "scg": {
+    "codepoint": "e630",
+    "name": "Scourge"
+  },
+  "mrd": {
+    "codepoint": "e631",
+    "name": "Mirrodin"
+  },
+  "dst": {
+    "codepoint": "e632",
+    "name": "Darksteel"
+  },
+  "5dn": {
+    "codepoint": "e633",
+    "name": "5th Dawn"
+  },
+  "chk": {
+    "codepoint": "e634",
+    "name": "Champions of Kamigawa"
+  },
+  "bok": {
+    "codepoint": "e635",
+    "name": "Betrayers of Kamigawa"
+  },
+  "sok": {
+    "codepoint": "e636",
+    "name": "Saviors of Kamigawa"
+  },
+  "rav": {
+    "codepoint": "e637",
+    "name": "Ravnica"
+  },
+  "gpt": {
+    "codepoint": "e638",
+    "name": "Guildpact"
+  },
+  "dis": {
+    "codepoint": "e639",
+    "name": "Dissension"
+  },
+  "tsp": {
+    "codepoint": "e63a",
+    "name": "Time Spiral"
+  },
+  "plc": {
+    "codepoint": "e63b",
+    "name": "Planeshift"
+  },
+  "fut": {
+    "codepoint": "e63c",
+    "name": "Future Sight"
+  },
+  "lrw": {
+    "codepoint": "e63d",
+    "name": "Lorwyn"
+  },
+  "mor": {
+    "codepoint": "e63e",
+    "name": "Morningtide"
+  },
+  "shm": {
+    "codepoint": "e63f",
+    "name": "Shadowmoor"
+  },
+  "eve": {
+    "codepoint": "e640",
+    "name": "Eventide"
+  },
+  "ala": {
+    "codepoint": "e641",
+    "name": "Shards of Alara"
+  },
+  "con": {
+    "codepoint": "e642",
+    "name": "Conflux"
+  },
+  "arb": {
+    "codepoint": "e643",
+    "name": "Alara Reborn"
+  },
+  "zen": {
+    "codepoint": "e644",
+    "name": "Zendikar"
+  },
+  "wwk": {
+    "codepoint": "e645",
+    "name": "Worldwake"
+  },
+  "roe": {
+    "codepoint": "e646",
+    "name": "Rise of Eldrazi"
+  },
+  "som": {
+    "codepoint": "e647",
+    "name": "Scars of Mirrodin"
+  },
+  "mbs": {
+    "codepoint": "e648",
+    "name": "Mirrodin Besieged"
+  },
+  "nph": {
+    "codepoint": "e649",
+    "name": "New Phyrexia"
+  },
+  "isd": {
+    "codepoint": "e64a",
+    "name": "Innistrad"
+  },
+  "dka": {
+    "codepoint": "e64b",
+    "name": "Dark Ascension"
+  },
+  "avr": {
+    "codepoint": "e64c",
+    "name": "Avacyn Restored"
+  },
+  "rtr": {
+    "codepoint": "e64d",
+    "name": "Return to Ravnica"
+  },
+  "gtc": {
+    "codepoint": "e64e",
+    "name": "Gatecrash"
+  },
+  "dgm": {
+    "codepoint": "e64f",
+    "name": "Dragon's Maze"
+  },
+  "ths": {
+    "codepoint": "e650",
+    "name": "Theros"
+  },
+  "bng": {
+    "codepoint": "e651",
+    "name": "Born of the Gods"
+  },
+  "jou": {
+    "codepoint": "e652",
+    "name": "Journey into Nyx"
+  },
+  "ktk": {
+    "codepoint": "e653",
+    "name": "Khans of Tarkir"
+  },
+  "frf": {
+    "codepoint": "e654",
+    "name": "Fate Reforged"
+  },
+  "dtk": {
+    "codepoint": "e693",
+    "name": "Dragons of Tarkir"
+  },
+  "bfz": {
+    "codepoint": "e699",
+    "name": "Battle for Zendikar"
+  },
+  "ogw": {
+    "codepoint": "e901",
+    "name": "Oath of the Gatewatch"
+  },
+  "soi": {
+    "codepoint": "e902",
+    "name": "Shadows Over Innistrad"
+  },
+  "emn": {
+    "codepoint": "e90b",
+    "name": "Eldritch Moon"
+  },
+  "kld": {
+    "codepoint": "e90e",
+    "name": "Kaladesh"
+  },
+  "aer": {
+    "codepoint": "e90f",
+    "name": "Aether Revolt"
+  },
+  "akh": {
+    "codepoint": "e914",
+    "name": "Amonkhet"
+  },
+  "hou": {
+    "codepoint": "e924",
+    "name": "Hour of Devastation"
+  },
+  "xln": {
+    "codepoint": "e92e",
+    "name": "Amonkhet"
+  },
+  "rix": {
+    "codepoint": "e92f",
+    "name": "Hour of Devastation"
+  },
+  "dom": {
+    "codepoint": "e93f",
+    "name": "Dominaria"
+  },
+  "gk1": {
+    "codepoint": "e94b",
+    "name": "GRM Guild Kits"
+  },
+  "gk2": {
+    "codepoint": "e959",
+    "name": "RNA Guild Kits"
+  },
+  "war": {
+    "codepoint": "e95a",
+    "name": "War of the Spark"
+  },
+  "eld": {
+    "codepoint": "e95e",
+    "name": "Throne of Eldraine"
+  },
+  "thb": {
+    "codepoint": "e961",
+    "name": "Theros: Beyond Death"
+  },
+  "iko": {
+    "codepoint": "e962",
+    "name": "Ikoria: Lair of Behemoths"
+  },
+  "znr": {
+    "codepoint": "e963",
+    "name": "Zendikar Rising"
+  },
+  "xkld": {
+    "codepoint": "e974",
+    "name": "Kaldheim"
+  },
+  "khm": {
+    "codepoint": "e974",
+    "name": "Kaldheim"
+  },
+  "xssm": {
+    "codepoint": "e975",
+    "name": "Strixhaven: School of Mages"
+  },
+  "stx": {
+    "codepoint": "e975",
+    "name": "Strixhaven: School of Mages"
+  },
+  "mid": {
+    "codepoint": "e978",
+    "name": "Innistrad: Midnight Hunt",
+    "duo_after": "e979"
+  },
+  "vow": {
+    "codepoint": "e977",
+    "name": "Innistrad: Crimson Vow"
+  },
+  "neo": {
+    "codepoint": "e98c",
+    "name": "Kamigawa: Neon Dynasty"
+  },
+  "snc": {
+    "codepoint": "e98b",
+    "name": "Streets of New Capenna"
+  },
+  "dmu": {
+    "codepoint": "e993",
+    "name": "Dominaria United"
+  },
+  "bro": {
+    "codepoint": "e99d",
+    "name": "The Brothers' War"
+  },
+  "one": {
+    "codepoint": "e9a1",
+    "name": "Phyrexia: All Will Be One"
+  },
+  "mom": {
+    "codepoint": "e9a2",
+    "name": "March of the Machine"
+  },
+  "mat": {
+    "codepoint": "e9a3",
+    "name": "March of the Machine: The Aftermath"
+  },
+  "woe": {
+    "codepoint": "e9ae",
+    "name": "Wilds of Eldraine"
+  },
+  "lci": {
+    "codepoint": "e9c2",
+    "name": "Lost Caverns of Ixalan"
+  },
+  "mkm": {
+    "codepoint": "e9c9",
+    "name": "Murders at Karlov Manor"
+  },
+  "otj": {
+    "codepoint": "e9cc",
+    "name": "Outlaws of Thunder Junction"
+  },
+  "blb": {
+    "codepoint": "e9cd",
+    "name": "Bloomburrow"
+  },
+  "dsk": {
+    "codepoint": "e9d7",
+    "name": "Duskmourn: House of Horror"
+  },
+  "dft": {
+    "codepoint": "e9e0",
+    "name": "Aetherdrift"
+  },
+  "tdm": {
+    "codepoint": "e9e6",
+    "name": "Tarkir: Dragonstorm (updated 3.17.0)"
+  },
+  "fin": {
+    "codepoint": "e9ed",
+    "name": "Final Fantasy"
+  },
+  "eoe": {
+    "codepoint": "e9f0",
+    "name": "Edge of Eternities"
+  },
+  "spm": {
+    "codepoint": "e9f1",
+    "name": "Marvel Spider-Man",
+    "duo_after": "e9f2"
+  },
+  "tla": {
+    "codepoint": "e9fb",
+    "name": "Avatar: the Last Airbender (special glyph)",
+    "duo_after": "e9fe"
+  },
+  "ecl": {
+    "codepoint": "ea04",
+    "name": "Lorwyn Eclipsed"
+  },
+  "tmt": {
+    "codepoint": "ea06",
+    "name": "Teenage Mutant Ninja Turtles",
+    "duo_after": "ea17"
+  },
+  "van": {
+    "codepoint": "e655",
+    "name": "Vanguard"
+  },
+  "hop": {
+    "codepoint": "e656",
+    "name": "Planechase 2009"
+  },
+  "arc": {
+    "codepoint": "e657",
+    "name": "Archenemy"
+  },
+  "cmd": {
+    "codepoint": "e658",
+    "name": "Commander"
+  },
+  "pc2": {
+    "codepoint": "e659",
+    "name": "Planechase 2012"
+  },
+  "cm1": {
+    "codepoint": "e65a",
+    "name": "Commander's Arsenal"
+  },
+  "c13": {
+    "codepoint": "e65b",
+    "name": "Commander 2013"
+  },
+  "cns": {
+    "codepoint": "e65c",
+    "name": "Conspiracy"
+  },
+  "c14": {
+    "codepoint": "e65d",
+    "name": "Commander 2014"
+  },
+  "c15": {
+    "codepoint": "e900",
+    "name": "Commander 2015"
+  },
+  "cn2": {
+    "codepoint": "e904",
+    "name": "Conspiracy 2: Take the Crown"
+  },
+  "c16": {
+    "codepoint": "e9e5",
+    "name": "Commander 2016 (this is the border)"
+  },
+  "pca": {
+    "codepoint": "e911",
+    "name": "Planechase Anthology"
+  },
+  "cma": {
+    "codepoint": "e916",
+    "name": "Commander Anthology"
+  },
+  "e01": {
+    "codepoint": "e92d",
+    "name": "Archenemy: Nicol Bolas"
+  },
+  "ann": {
+    "codepoint": "e92d",
+    "name": "Archenemy: Nicol Bolas"
+  },
+  "e02": {
+    "codepoint": "e931",
+    "name": "Explorers of Ixalan"
+  },
+  "c17": {
+    "codepoint": "e934",
+    "name": "Commander 2017"
+  },
+  "cm2": {
+    "codepoint": "e940",
+    "name": "Commander Anthology 2"
+  },
+  "bbd": {
+    "codepoint": "e942",
+    "name": "Battlebond"
+  },
+  "c18": {
+    "codepoint": "e946",
+    "name": "Commander 2018"
+  },
+  "c19": {
+    "codepoint": "e95f",
+    "name": "Commander 2019"
+  },
+  "c20": {
+    "codepoint": "e966",
+    "name": "Ikoria: Commander 2020"
+  },
+  "znc": {
+    "codepoint": "e967",
+    "name": "Zendikar Rising: Commander Decks"
+  },
+  "cc1": {
+    "codepoint": "e968",
+    "name": "Commander Collection: Green"
+  },
+  "cmc": {
+    "codepoint": "e969",
+    "name": "Commander Legends Decks"
+  },
+  "khc": {
+    "codepoint": "e97d",
+    "name": "Kaldheim Commander",
+    "duo_before": "e9c5",
+    "duo_after": "e9c6"
+  },
+  "c21": {
+    "codepoint": "e97e",
+    "name": "Commander 2021 (inner)",
+    "duo_after": "e97f"
+  },
+  "afc": {
+    "codepoint": "e981",
+    "name": "Forgotten Realms (inner)",
+    "duo_after": "e982"
+  },
+  "mic": {
+    "codepoint": "e985",
+    "name": "Midnight Hunt Commander"
+  },
+  "voc": {
+    "codepoint": "e986",
+    "name": "Crimson Vow Commander"
+  },
+  "cc2": {
+    "codepoint": "e987",
+    "name": "Commander Collection: Black (inner)",
+    "duo_after": "e988"
+  },
+  "nec": {
+    "codepoint": "e98d",
+    "name": "Kamigawa: Neon Dynasty Commander"
+  },
+  "ncc": {
+    "codepoint": "e98e",
+    "name": "Streets of New Capenna Commander",
+    "duo_before": "e98f",
+    "duo_after": "e990"
+  },
+  "clb": {
+    "codepoint": "e991",
+    "name": "Commander Legends: Battle for Baldur's Gate",
+    "duo_after": "e992"
+  },
+  "dmc": {
+    "codepoint": "e994",
+    "name": "Dominaria United Commander",
+    "duo_before": "e995",
+    "duo_after": "e997"
+  },
+  "40k": {
+    "codepoint": "e998",
+    "name": "Warhammer 40K Universes Beyond",
+    "duo_before": "e999",
+    "duo_after": "e99b"
+  },
+  "brc": {
+    "codepoint": "e99f",
+    "name": "The Brothers' War Commander"
+  },
+  "onc": {
+    "codepoint": "e9a8",
+    "name": "Phyrexia: All Will Be One Commander"
+  },
+  "moc": {
+    "codepoint": "e9a9",
+    "name": "March of the Machines Commander"
+  },
+  "scd": {
+    "codepoint": "e9ab",
+    "name": "Starter Commander Decks",
+    "duo_after": "e9ac"
+  },
+  "cmm": {
+    "codepoint": "e9b5",
+    "name": "Commander Masters"
+  },
+  "ltc": {
+    "codepoint": "e9b6",
+    "name": "Lord of the Rings Commander",
+    "duo_before": "e9b7",
+    "duo_after": "e9b8"
+  },
+  "woc": {
+    "codepoint": "e9b9",
+    "name": "Wilds of Eldraine Commander"
+  },
+  "lcc": {
+    "codepoint": "e9c7",
+    "name": "Lost Caverns of Ixalan Commander"
+  },
+  "mkc": {
+    "codepoint": "e9ca",
+    "name": "Murders at Karlov Manor Commander"
+  },
+  "otc": {
+    "codepoint": "e9d2",
+    "name": "Outlaws of Thunder Junction Commander",
+    "duo_after": "e9d3"
+  },
+  "blc": {
+    "codepoint": "e9d4",
+    "name": "Bloomburrow Commander"
+  },
+  "m3c": {
+    "codepoint": "e9d0",
+    "name": "Modern Horizons 3 Commander",
+    "duo_after": "e9d1"
+  },
+  "dsc": {
+    "codepoint": "e9dc",
+    "name": "Duskmourn Commander",
+    "duo_after": "e9de"
+  },
+  "fdc": {
+    "codepoint": "e9e4",
+    "name": "Foundations Commander"
+  },
+  "drc": {
+    "codepoint": "e9e8",
+    "name": "Aetherdrift Commander",
+    "duo_before": "e9e9",
+    "duo_after": "e9eb"
+  },
+  "tdc": {
+    "codepoint": "e9f4",
+    "name": "Tarkir Dragonstorm Commander"
+  },
+  "fic": {
+    "codepoint": "e9f5",
+    "name": "Final Fantasy Commander"
+  },
+  "eoc": {
+    "codepoint": "e9f6",
+    "name": "Edge of Eternities Commander",
+    "duo_after": "e9f7"
+  },
+  "ecc": {
+    "codepoint": "ea11",
+    "name": "Lorwyn Eclipsed Commander",
+    "duo_after": "ea14"
+  },
+  "tmc": {
+    "codepoint": "ea15",
+    "name": "Teenage Mutant Ninja Turtles Eternal-Legal"
+  },
+  "chr": {
+    "codepoint": "e65e",
+    "name": "Chronicles"
+  },
+  "ath": {
+    "codepoint": "e65f",
+    "name": "Anthologies"
+  },
+  "brb": {
+    "codepoint": "e660",
+    "name": "Battle Royale"
+  },
+  "btd": {
+    "codepoint": "e661",
+    "name": "Beatdown"
+  },
+  "dkm": {
+    "codepoint": "e662",
+    "name": "Deckmasters"
+  },
+  "mma": {
+    "codepoint": "e663",
+    "name": "Modern Masters"
+  },
+  "mm2": {
+    "codepoint": "e695",
+    "name": "Modern Masters 2015"
+  },
+  "ema": {
+    "codepoint": "e903",
+    "name": "Eternal Masters"
+  },
+  "mm3": {
+    "codepoint": "e912",
+    "name": "Modern Masters 2017"
+  },
+  "ren": {
+    "codepoint": "e917",
+    "name": "Renaissance"
+  },
+  "xren": {
+    "codepoint": "e917",
+    "name": "Renaissance"
+  },
+  "rin": {
+    "codepoint": "e918",
+    "name": "Rinascimento"
+  },
+  "xrin": {
+    "codepoint": "e918",
+    "name": "Rinascimento"
+  },
+  "ima": {
+    "codepoint": "e935",
+    "name": "Iconic Masters"
+  },
+  "a25": {
+    "codepoint": "e93d",
+    "name": "Masters 25"
+  },
+  "uma": {
+    "codepoint": "e958",
+    "name": "Ultimate Masters"
+  },
+  "mh1": {
+    "codepoint": "e95b",
+    "name": "Modern Horizons"
+  },
+  "2xm": {
+    "codepoint": "e96e",
+    "name": "Double Masters"
+  },
+  "jmp": {
+    "codepoint": "e96f",
+    "name": "Jumpstart"
+  },
+  "mb1": {
+    "codepoint": "e971",
+    "name": "Mystery Booster"
+  },
+  "mh2": {
+    "codepoint": "e97b",
+    "name": "Modern Horizons 2"
+  },
+  "sta": {
+    "codepoint": "e980",
+    "name": "Strixhaven Mystical Archives"
+  },
+  "j21": {
+    "codepoint": "e983",
+    "name": "Jumpstart: Historic Horizons",
+    "duo_after": "e984"
+  },
+  "2x2": {
+    "codepoint": "e99c",
+    "name": "Double Masters 2022"
+  },
+  "brr": {
+    "codepoint": "e9a0",
+    "name": "The Brothers' War Retro Artifacts"
+  },
+  "j22": {
+    "codepoint": "e9ad",
+    "name": "Jumpstart 2022"
+  },
+  "mul": {
+    "codepoint": "e9ba",
+    "name": "Multiverse Legends"
+  },
+  "wot": {
+    "codepoint": "e9c0",
+    "name": "Wilds of Eldraine Enchanting Tales"
+  },
+  "br": {
+    "codepoint": "e9c1",
+    "name": "Battle Royale (alternate)"
+  },
+  "spg": {
+    "codepoint": "e9c8",
+    "name": "Special Guests"
+  },
+  "otp": {
+    "codepoint": "e9d5",
+    "name": "Breaking News (OTJ)"
+  },
+  "big": {
+    "codepoint": "e9d6",
+    "name": "The Big Score (OTJ)"
+  },
+  "mb2": {
+    "codepoint": "e9d9",
+    "name": "Mystery Booster"
+  },
+  "j25a": {
+    "codepoint": "e9db",
+    "name": "Jumpstart 2025"
+  },
+  "j25": {
+    "codepoint": "e9df",
+    "name": "Jumpstart 2025 (using this alternate with border)"
+  },
+  "pio": {
+    "codepoint": "e9e7",
+    "name": "Pioneer Masters"
+  },
+  "fca": {
+    "codepoint": "e9f8",
+    "name": "Final Fantasy Through the Ages"
+  },
+  "mar": {
+    "codepoint": "e9f9",
+    "name": "Marvel TBD",
+    "duo_after": "e9fa"
+  },
+  "por": {
+    "codepoint": "e664",
+    "name": "Portal"
+  },
+  "p02": {
+    "codepoint": "e665",
+    "name": "Portal 2"
+  },
+  "po2": {
+    "codepoint": "e665",
+    "name": "Portal 2"
+  },
+  "ptk": {
+    "codepoint": "e666",
+    "name": "Portal 3 Kingdoms"
+  },
+  "s99": {
+    "codepoint": "e667",
+    "name": "Starter 1999"
+  },
+  "s00": {
+    "codepoint": "e668",
+    "name": "Starter 2000"
+  },
+  "w16": {
+    "codepoint": "e907",
+    "name": "Welcome Deck 2016"
+  },
+  "w17": {
+    "codepoint": "e923",
+    "name": "Welcome Deck 2017"
+  },
+  "evg": {
+    "codepoint": "e669",
+    "name": "Elves vs. Goblins"
+  },
+  "dd2": {
+    "codepoint": "e66a",
+    "name": "Jace vs. Chandra"
+  },
+  "ddc": {
+    "codepoint": "e66b",
+    "name": "Divine vs. Demonic"
+  },
+  "ddd": {
+    "codepoint": "e66c",
+    "name": "Garruk vs. Liliana"
+  },
+  "dde": {
+    "codepoint": "e66d",
+    "name": "Phyrexia vs. Coalition"
+  },
+  "ddf": {
+    "codepoint": "e66e",
+    "name": "Elspeth vs. Tezzeret"
+  },
+  "ddg": {
+    "codepoint": "e66f",
+    "name": "Knights vs. Dragons"
+  },
+  "ddh": {
+    "codepoint": "e670",
+    "name": "Ajani vs. Nicol Bolas"
+  },
+  "ddi": {
+    "codepoint": "e671",
+    "name": "Venser vs. Koth"
+  },
+  "ddj": {
+    "codepoint": "e672",
+    "name": "Izzet vs. Golgari"
+  },
+  "ddk": {
+    "codepoint": "e673",
+    "name": "Sorin vs. Tibalt"
+  },
+  "ddl": {
+    "codepoint": "e674",
+    "name": "Heroes vs. Monsters"
+  },
+  "ddm": {
+    "codepoint": "e675",
+    "name": "Jace vs. Vraska"
+  },
+  "ddn": {
+    "codepoint": "e676",
+    "name": "Speed vs. Cunning"
+  },
+  "ddo": {
+    "codepoint": "e677",
+    "name": "Kiora vs. Elspeth"
+  },
+  "ddp": {
+    "codepoint": "e698",
+    "name": "Zendikar vs. Eldrazi"
+  },
+  "ddq": {
+    "codepoint": "e908",
+    "name": "Blessed vs. Cursed"
+  },
+  "ddr": {
+    "codepoint": "e90d",
+    "name": "Nissa vs. Ob Nixilis"
+  },
+  "td2": {
+    "codepoint": "e91c",
+    "name": "New Phyrexia vs. Mirrodin Pure"
+  },
+  "dds": {
+    "codepoint": "e921",
+    "name": "Mind vs. Might"
+  },
+  "ddt": {
+    "codepoint": "e933",
+    "name": "Merfolk vs. Goblins"
+  },
+  "ddu": {
+    "codepoint": "e93e",
+    "name": "Elves vs. Inventors"
+  },
+  "drb": {
+    "codepoint": "e678",
+    "name": "Dragons"
+  },
+  "v09": {
+    "codepoint": "e679",
+    "name": "Exiled"
+  },
+  "v10": {
+    "codepoint": "e67a",
+    "name": "Relics"
+  },
+  "v11": {
+    "codepoint": "e67b",
+    "name": "Legends"
+  },
+  "v12": {
+    "codepoint": "e67c",
+    "name": "Realms"
+  },
+  "v13": {
+    "codepoint": "e67d",
+    "name": "Twenty"
+  },
+  "v14": {
+    "codepoint": "e67e",
+    "name": "Annihilation"
+  },
+  "v15": {
+    "codepoint": "e905",
+    "name": "Angels"
+  },
+  "v16": {
+    "codepoint": "e906",
+    "name": "Lore"
+  },
+  "v0x": {
+    "codepoint": "e920",
+    "name": "Vaults"
+  },
+  "v17": {
+    "codepoint": "e939",
+    "name": "Transform"
+  },
+  "h09": {
+    "codepoint": "e67f",
+    "name": "Slivers"
+  },
+  "pd2": {
+    "codepoint": "e680",
+    "name": "Fire & Lightning"
+  },
+  "pd3": {
+    "codepoint": "e681",
+    "name": "Graveborn"
+  },
+  "md1": {
+    "codepoint": "e682",
+    "name": "Modern Event Deck"
+  },
+  "ss1": {
+    "codepoint": "e944",
+    "name": "Jace"
+  },
+  "ss2": {
+    "codepoint": "e95c",
+    "name": "Gideon"
+  },
+  "ss3": {
+    "codepoint": "e96d",
+    "name": "Chandra"
+  },
+  "gs1": {
+    "codepoint": "e945",
+    "name": "Jiang Yanggu & Mu Yanling"
+  },
+  "azorius": {
+    "codepoint": "e94e",
+    "name": "Azorius"
+  },
+  "boros": {
+    "codepoint": "e94f",
+    "name": "Boros"
+  },
+  "dimir": {
+    "codepoint": "e950",
+    "name": "Dimir"
+  },
+  "golgari": {
+    "codepoint": "e951",
+    "name": "Golgari"
+  },
+  "gruul": {
+    "codepoint": "e952",
+    "name": "Gruul"
+  },
+  "izzet": {
+    "codepoint": "e953",
+    "name": "Izzet"
+  },
+  "orzhov": {
+    "codepoint": "e954",
+    "name": "Orzhov"
+  },
+  "rakdos": {
+    "codepoint": "e955",
+    "name": "Rakdos"
+  },
+  "selesnya": {
+    "codepoint": "e956",
+    "name": "Selesnya"
+  },
+  "simic": {
+    "codepoint": "e957",
+    "name": "Simic"
+  },
+  "gnt": {
+    "codepoint": "e94d",
+    "name": "Game Night"
+  },
+  "gn2": {
+    "codepoint": "e964",
+    "name": "Game Night 2019"
+  },
+  "tsr": {
+    "codepoint": "e976",
+    "name": "Time Spiral Remastered"
+  },
+  "dmr": {
+    "codepoint": "e9a4",
+    "name": "Dominaria Remastered"
+  },
+  "gn3": {
+    "codepoint": "e9a5",
+    "name": "Game Night: Free for All"
+  },
+  "ltr": {
+    "codepoint": "e9af",
+    "name": "Lord of the Rings"
+  },
+  "who": {
+    "codepoint": "e9b0",
+    "name": "Universes Beyond: Doctor Who"
+  },
+  "rvr": {
+    "codepoint": "e9bb",
+    "name": "Ravnica Remastered"
+  },
+  "pip": {
+    "codepoint": "e9c3",
+    "name": "Universes Beyond: Fallout"
+  },
+  "clu": {
+    "codepoint": "e9cb",
+    "name": "Ravnica: Clue Edition"
+  },
+  "acr": {
+    "codepoint": "e9ce",
+    "name": "Universes Beyond: Assassin's Creed"
+  },
+  "mh3": {
+    "codepoint": "e9cf",
+    "name": "Modern Horizons 3"
+  },
+  "inr": {
+    "codepoint": "e9e2",
+    "name": "Innistrad Remastered"
+  },
+  "spe": {
+    "codepoint": "e9f3",
+    "name": "Marvel Spider-Man Scene"
+  },
+  "tle": {
+    "codepoint": "ea0b",
+    "name": "Avater Eternal Cards (this is the border glyph b/c it looks better)",
+    "duo_after": "ea0c"
+  },
+  "pza": {
+    "codepoint": "ea08",
+    "name": "TMT Source Material"
+  },
+  "pgru": {
+    "codepoint": "e683",
+    "name": "Guru"
+  },
+  "pmtg1": {
+    "codepoint": "e684",
+    "name": "Magic symbol"
+  },
+  "pmtg2": {
+    "codepoint": "e685",
+    "name": "Magic symbol (alt)"
+  },
+  "pleaf": {
+    "codepoint": "e686",
+    "name": "Leaf"
+  },
+  "htr17": {
+    "codepoint": "e687",
+    "name": "Heroes of the Realm 2017"
+  },
+  "parl": {
+    "codepoint": "e688",
+    "name": "DCI (Arena)"
+  },
+  "dpa": {
+    "codepoint": "e689",
+    "name": "Dragons"
+  },
+  "pbook": {
+    "codepoint": "e68a",
+    "name": "Book Insert"
+  },
+  "past": {
+    "codepoint": "e68b",
+    "name": "Astral"
+  },
+  "parl2": {
+    "codepoint": "e68c",
+    "name": "Arena logo"
+  },
+  "exp": {
+    "codepoint": "e69a",
+    "name": "Zendikar Expeditions"
+  },
+  "psalvat05": {
+    "codepoint": "e909",
+    "name": "Salvat 2005"
+  },
+  "psalvat11": {
+    "codepoint": "e90a",
+    "name": "Salvat 2011"
+  },
+  "mps": {
+    "codepoint": "e913",
+    "name": "Kaladesh Inventions"
+  },
+  "mp1": {
+    "codepoint": "e913",
+    "name": "Kaladesh Inventions"
+  },
+  "pxbox": {
+    "codepoint": "e915",
+    "name": "Xbox Media Promo"
+  },
+  "pmps": {
+    "codepoint": "e919",
+    "name": "Magic Premiere Shop"
+  },
+  "pmpu": {
+    "codepoint": "e91a",
+    "name": "Mirrodin Pure promo"
+  },
+  "mp2": {
+    "codepoint": "e922",
+    "name": "Amonkhet Invocations"
+  },
+  "pidw": {
+    "codepoint": "e92c",
+    "name": "IDW promo"
+  },
+  "pdrc": {
+    "codepoint": "e932",
+    "name": "Dragon*Con promo"
+  },
+  "pheart": {
+    "codepoint": "e936",
+    "name": "Phoenix Heart celebration"
+  },
+  "h17": {
+    "codepoint": "e938",
+    "name": "HasCon 2017"
+  },
+  "pdep": {
+    "codepoint": "e93a",
+    "name": "Duelist Extra Pulled"
+  },
+  "psega": {
+    "codepoint": "e93b",
+    "name": "Sega Dreamcast"
+  },
+  "ptsa": {
+    "codepoint": "e93c",
+    "name": "The Sorcerer's Apprentice"
+  },
+  "parl3": {
+    "codepoint": "e943",
+    "name": "MTGO Arena"
+  },
+  "med": {
+    "codepoint": "e94c",
+    "name": "Mythic Edition"
+  },
+  "ptg": {
+    "codepoint": "e965",
+    "name": "Ponies: the Galloping"
+  },
+  "j20": {
+    "codepoint": "e96a",
+    "name": "Judge Academy 2020"
+  },
+  "zne": {
+    "codepoint": "e97a",
+    "name": "Zendikar Rising Expeditions"
+  },
+  "bot": {
+    "codepoint": "e99e",
+    "name": "The Brothers' War Transformers"
+  },
+  "rex": {
+    "codepoint": "e9c4",
+    "name": "Jurassic World"
+  },
+  "eos": {
+    "codepoint": "ea00",
+    "name": "Edge of Eternities: Stellar Sights"
+  },
+  "sta-jpn": {
+    "codepoint": "e9fc",
+    "name": "Strixhaven Mystical Archives Japanese Promos"
+  },
+  "slu": {
+    "codepoint": "e687",
+    "name": "Secret Lair: Ultimate Edition (alias of PMEI)"
+  },
+  "sld": {
+    "codepoint": "e687",
+    "name": "Secret Lair Drop (alias of PMEI)"
+  },
+  "psld": {
+    "codepoint": "e687",
+    "name": "Secret Lair Drop Promos (alias of PMEI)"
+  },
+  "sld2": {
+    "codepoint": "e9bc",
+    "name": "Secret Lair (logo)"
+  },
+  "me1": {
+    "codepoint": "e68d",
+    "name": "Masters Edition"
+  },
+  "me2": {
+    "codepoint": "e68e",
+    "name": "Masters Edition II"
+  },
+  "me3": {
+    "codepoint": "e68f",
+    "name": "Masters Edition III"
+  },
+  "me4": {
+    "codepoint": "e690",
+    "name": "Masters Edition IV"
+  },
+  "tpr": {
+    "codepoint": "e694",
+    "name": "Tempest Remastered"
+  },
+  "vma": {
+    "codepoint": "e696",
+    "name": "Vintage Masters"
+  },
+  "pz1": {
+    "codepoint": "e90c",
+    "name": "Legendary Cube"
+  },
+  "xlcu": {
+    "codepoint": "e90c",
+    "name": "Legendary Cube"
+  },
+  "modo": {
+    "codepoint": "e91b",
+    "name": "Magic Online promos"
+  },
+  "pmodo": {
+    "codepoint": "e91b",
+    "name": "Magic Online promos"
+  },
+  "duels": {
+    "codepoint": "e91d",
+    "name": "Magic Duels"
+  },
+  "xduels": {
+    "codepoint": "e91d",
+    "name": "Magic Duels"
+  },
+  "xmods": {
+    "codepoint": "e91e",
+    "name": "Magic Online Deck Series"
+  },
+  "pz2": {
+    "codepoint": "e91f",
+    "name": "Treasure Chests"
+  },
+  "ha1": {
+    "codepoint": "e96b",
+    "name": "Historic Anthology 1"
+  },
+  "akr": {
+    "codepoint": "e970",
+    "name": "Amonkhet Remastered"
+  },
+  "klr": {
+    "codepoint": "e97c",
+    "name": "Kaladesh Remastered"
+  },
+  "y22": {
+    "codepoint": "e989",
+    "name": "Alchemy 2022"
+  },
+  "ymid": {
+    "codepoint": "e989",
+    "name": "Alchemy 2022"
+  },
+  "yneo": {
+    "codepoint": "e989",
+    "name": "Alchemy 2022"
+  },
+  "ysnc": {
+    "codepoint": "e989",
+    "name": "Alchemy 2022"
+  },
+  "hbg": {
+    "codepoint": "e9a6",
+    "name": "Alchemy Horizons: Baldur's Gate"
+  },
+  "y23": {
+    "codepoint": "e9a7",
+    "name": "Alchemy: Dominaria"
+  },
+  "ybro": {
+    "codepoint": "e9a7",
+    "name": "Alchemy: Dominaria"
+  },
+  "ydmu": {
+    "codepoint": "e9a7",
+    "name": "Alchemy: Dominaria"
+  },
+  "yone": {
+    "codepoint": "e9a7",
+    "name": "Alchemy: Dominaria"
+  },
+  "sir": {
+    "codepoint": "e9b1",
+    "name": "Shadows Over Innistrad"
+  },
+  "sis": {
+    "codepoint": "e9b2",
+    "name": "Shadows of the Past"
+  },
+  "ea1": {
+    "codepoint": "e9b4",
+    "name": "Explorer Anthology 1"
+  },
+  "y24": {
+    "codepoint": "e9bd",
+    "name": "Alchemy 2024"
+  },
+  "ylci": {
+    "codepoint": "e9bd",
+    "name": "Alchemy 2024"
+  },
+  "ymkm": {
+    "codepoint": "e9bd",
+    "name": "Alchemy 2024"
+  },
+  "yotj": {
+    "codepoint": "e9bd",
+    "name": "Alchemy 2024"
+  },
+  "ywoe": {
+    "codepoint": "e9bd",
+    "name": "Alchemy 2024"
+  },
+  "y25": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "yblb": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "ydft": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "ydsk": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "ytdm": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "yeoe": {
+    "codepoint": "e9da",
+    "name": "Alchemy 2025"
+  },
+  "pma": {
+    "codepoint": "ea01",
+    "name": "Puzzle Masters"
+  },
+  "pm2": {
+    "codepoint": "ea02",
+    "name": "Puzzle Masters 2"
+  },
+  "dvk": {
+    "codepoint": "ea03",
+    "name": "Daxos vs. Kalemne (Puzzle Masters)"
+  },
+  "om1": {
+    "codepoint": "ea0e",
+    "name": "Through the Omenpaths (using border as symbol here b/c it looks better)"
+  },
+  "omb": {
+    "codepoint": "ea10",
+    "name": "Through the Omenpaths (using border as symbol here b/c it looks better)"
+  },
+  "ugl": {
+    "codepoint": "e691",
+    "name": "Unglued"
+  },
+  "unh": {
+    "codepoint": "e692",
+    "name": "Unhinged"
+  },
+  "ust": {
+    "codepoint": "e930",
+    "name": "Unstable"
+  },
+  "und": {
+    "codepoint": "e96c",
+    "name": "Unsanctioned"
+  },
+  "unf": {
+    "codepoint": "e98a",
+    "name": "Unfinity"
+  },
+  "una": {
+    "codepoint": "e9be",
+    "name": "Unfinity Acorns",
+    "duo_after": "e9bf"
+  },
+  "xcle": {
+    "codepoint": "e926",
+    "name": "Collector's Edition"
+  },
+  "xice": {
+    "codepoint": "e927",
+    "name": "International Collector's Edition"
+  },
+  "x2ps": {
+    "codepoint": "e928",
+    "name": "Two Player Introductory Set"
+  },
+  "x4ea": {
+    "codepoint": "e929",
+    "name": "Alternate 4th Edition"
+  },
+  "papac": {
+    "codepoint": "e92a",
+    "name": "APAC Lands"
+  },
+  "peuro": {
+    "codepoint": "e92b",
+    "name": "Euro Lands"
+  },
+  "pfnm": {
+    "codepoint": "e937",
+    "name": "Friday Night Magic"
+  },
+  "30a": {
+    "codepoint": "e9aa",
+    "name": "30th Anniversary Edition"
+  }
+}
