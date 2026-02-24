@@ -1,0 +1,52 @@
+# Output renders
+out/
+
+# Card art (large binary files, user-supplied)
+art/
+
+# Scryfall API cache
+card.json
+scripts/card.json
+scripts/card.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Temporary / diagnostic files
+diag_*.py
+diag_*.txt
+gimp_debug*.txt
+debug_markup.txt
+/tmp/
+
+# XCF templates (large binary, tracked separately or excluded)
+# Uncomment if you don't want to track templates:
+# templates/
+
+# Agent tooling internals
+.sidecar/
+.sisyphus/
+.todos/
