@@ -1,0 +1,3 @@
+[submodule "mtg-photoshop-automation"]
+	path = mtg-photoshop-automation
+	url = https://github.com/chilli-axe/mtg-photoshop-automation.git
